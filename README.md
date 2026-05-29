@@ -38,11 +38,11 @@ Manejo estructurado de colisiones por capas empleando condicionales anidados ind
 
 Hecho con ❤️ y bloques de App Inventor. ¡Disfruta protegiendo a las abejas! 🐝
 
-Elaborado por:
-Chan Dzib Valeri Samantha
-Chim Chable Reyna Alexandra
-Hobac Can Jimena Ashanty
-Mukul Basto Guadalupe Yoseline
-Parra Cruz Lorena Patricia
+## Elaborado por:
+* **Chan Dzib Valeri Samantha**
+* **Chim Chable Reyna Alexandra**
+* **Hobac Can Jimena Ashanty**
+* **Mukul Basto Guadalupe Yoseline**
+* **Parra Cruz Lorena Patricia**
 6A de Programación
 # AMA_DGETI
