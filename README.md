@@ -44,5 +44,5 @@ Hecho con ❤️ y bloques de App Inventor. ¡Disfruta protegiendo a las abejas!
 * **Hobac Can Jimena Ashanty**
 * **Mukul Basto Guadalupe Yoseline**
 * **Parra Cruz Lorena Patricia**
-6A de Programación
+* **6A de Programación**
 # AMA_DGETI
